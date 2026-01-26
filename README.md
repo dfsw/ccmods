@@ -118,6 +118,8 @@ Nearly everything can be toggled on or off at will, though most start enabled.
 
 [Sugar Scum](https://github.com/sky-noname/SugarScum) \- A mod that scums the garden and special sugar lumps for you.
 
+[Mac Option Key Mod](Game.LoadMod('https://cdn.jsdelivr.net/gh/dfsw/Just-Natural-Expansion@main/optionkeymod.js');)  \- This mod fixes the control key not working on the Mac for Cookie Clicker and allows you to use Option in place of Control while playing. 
+
 # Modding Tools
 
 [Cookie Clicker Script Extender (CCSE)](https://klattmose.github.io/CookieClicker/CCSE-POCs/) \- CCSE is a modding framework for the game https://orteil.dashnet.org/cookieclicker/. On its own, it makes no changes to the game. Instead, it makes modding the game much easier.
