@@ -30,7 +30,7 @@ Helper mods assist you with your tasks within Cookie Clicker such as auto-clicke
 
 # Content Mods
 
-[Just Natural Expansion](https://github.com/dfsw/Just-Natural-Expansion) \- Enhances the Cookie Clicker endgame without disrupting core gameplay, staying true to the spirit of the vanilla experience. It introduces over 450 achievements, 250 upgrades, new goals, new stories, and deeply rooted hidden elements, all specifically designed for late-game progression. 
+[Just Natural Expansion](https://github.com/dfsw/Just-Natural-Expansion) \- Enhances the Cookie Clicker endgame without disrupting core gameplay, staying true to the spirit of the vanilla experience. It introduces new achievements, upgrades, heavenly upgrades, minigames for additional buildings (Javascript Console and Fractal Engine), an occult puzzle mystery pack, and more. 
 
 [Spiced Cookies](https://github.com/staticvariablejames/SpicedCookies) \- Adds a little bit of spice to your Cookie Clicker gameplay. This is a collection of small modifications to the game Cookie Clicker. Every single feature can be either ignored or disabled in the settings, and most of them start disabled by default.
 
@@ -77,6 +77,8 @@ Nearly everything can be toggled on or off at will, though most start enabled.
 [Cookie Clicker Combo Execution Mod (CCCEM)](https://cookieclicker.wiki.gg/wiki/Add-Ons#Cookie_Clicker_Combo_Execution_Mod_\(CCCEM\)) \- Sets up the game to allow you to easily practice various kinds of combos and tweak the game to your desire, with a reset button for repeated practice. 
 
 [Crustulum](https://github.com/Ancyker/Crustulum) \- Crustulum is a *cheating* add-on for Cookie Clicker. It enables a variety of features to help those wishing to make aspects of the game easier. 
+
+[True offline](https://cursedsliver.github.io/true-offline/main.js) A mod that grants true offline progress to cookie clicker by simulating the offline time when the game is opened again, including the ability to speed up the simulation using P for Pause. Loading the mod continuously is needed to store the last login as mod data
 
 # Appearance Mods
 
