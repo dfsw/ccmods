@@ -58,9 +58,9 @@ Nearly everything can be toggled on or off at will, though most start enabled.
 
 [FractylCookie](https://fractylizer.github.io/fractylcookie/) \- Adds several cookie upgrades, a heavenly upgrade, and extra miscellaneous and tiered achievements.
 
-[More Heavenly Upgrades Remastered](https://steamcommunity.com/sharedfiles/filedetails/?id=3014662739) & [Heavenly Archives](https://steamcommunity.com/sharedfiles/filedetails/?id=3494063661) \-  Mods that add additional heavenly upgrades to the game, allowing the player to reach extremely high cookie counts. (Steam only)
-
 [Additional Achievements Addon](https://hellopir2.github.io/cc-mods/AAA/main.js) \- Assorted achievements that force unique strategies
+ 
+[Back For Seconds](https://github.com/xyntercept/back-for-seconds/tree/main)\- This is a cookie clicker mod designed for the finnless ruleset. It is heavily inspired by Lookas123's Extra Content Mod.It does not modify gameplay at all, it is only an achievement pack, similar to ECM. It adds 30 more achievements for Cookies Baked This Ascension, up to 1 octotrigintillion (these do not give milk). It also adds 6 shadow achievements.
 
 # Gameplay Mods
 
