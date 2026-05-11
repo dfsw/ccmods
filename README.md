@@ -64,7 +64,7 @@ Nearly everything can be toggled on or off at will, though most start enabled.
 
 # Gameplay Mods
 
-[Kaizo Cookies](https://cursedsliver.github.io/asdoindwalk/kaizo.js) \- A hyperactive anti-idle mod that adds several new gameplay concepts such as Decay and Purity, [more info](https://www.reddit.com/r/CookieClicker/comments/1i7buo3/new_mod_kaizo_cookies/). 
+[Kaizo Cookies](https://plasma4.github.io/kaizo-cookies) \- A hyperactive anti-idle mod that adds several new gameplay concepts such as Decay and Purity, [more info](https://www.reddit.com/r/CookieClicker/comments/1i7buo3/new_mod_kaizo_cookies/). 
 
 [Cookieclysm](https://yeetdragon24.github.io/cookieclysm/cookieclysm.loader.js) \- Massive updates to gameplay including new buildings and mechanics. [More Info](https://www.reddit.com/r/CookieClicker/comments/1gyrygp/my_mod_cookieclysm_is_out/)
 
