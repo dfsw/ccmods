@@ -74,7 +74,7 @@ Nearly everything can be toggled on or off at will, though most start enabled.
 
 [Macadamia](https://github.com/RedBigz/macadamia) \- A custom mod loader for Cookie Clicker which allows players to play online, with dedicated mod APIs to communicate over the Internet.
 
-[Cookie Clicker Combo Execution Mod (CCCEM)](https://cookieclicker.wiki.gg/wiki/Add-Ons#Cookie_Clicker_Combo_Execution_Mod_\(CCCEM\)) \- Sets up the game to allow you to easily practice various kinds of combos and tweak the game to your desire, with a reset button for repeated practice. 
+[Cookie Clicker Combo Execution Mod (CCCEM)](https://cursedsliver.github.io/CCCEM/) \- Sets up the game to allow you to easily practice various kinds of combos and tweak the game to your desire, with a reset button for repeated practice. 
 
 [Crustulum](https://github.com/Ancyker/Crustulum) \- Crustulum is a *cheating* add-on for Cookie Clicker. It enables a variety of features to help those wishing to make aspects of the game easier. 
 
