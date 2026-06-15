@@ -30,7 +30,7 @@ Helper mods assist you with your tasks within Cookie Clicker such as auto-clicke
 
 # Content Mods
 
-[Just Natural Expansion](https://github.com/dfsw/Just-Natural-Expansion) \- Enhances the Cookie Clicker endgame without disrupting core gameplay, staying true to the spirit of the vanilla experience. It introduces new achievements, upgrades, heavenly upgrades, minigames for additional buildings (Javascript Console and Fractal Engine), an occult puzzle mystery pack, and more. 
+[Just Natural Expansion](https://github.com/dfsw/Just-Natural-Expansion) \- Enhances the Cookie Clicker endgame without disrupting core gameplay, staying true to the spirit of the vanilla experience. It introduces new achievements, upgrades, heavenly upgrades, 3 new minigames, new holiday season, an occult puzzle mystery pack, and more. 
 
 [Spiced Cookies](https://github.com/staticvariablejames/SpicedCookies) \- Adds a little bit of spice to your Cookie Clicker gameplay. This is a collection of small modifications to the game Cookie Clicker. Every single feature can be either ignored or disabled in the settings, and most of them start disabled by default.
 
