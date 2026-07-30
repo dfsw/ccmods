@@ -104,6 +104,8 @@ Nearly everything can be toggled on or off at will, though most start enabled.
 
 # Helper Mods
 
+[Metaclicker: The ultimate autoclicker mod](https://cursedsliver.github.io/asdoindwalk/autoclicker.js) \- A lot of the autoclicker scripts on web have issues. They don't look like they are clicking the big cookie, they click at speeds no autoclicker should be able to click at without telling their users (the 50 clicks/second cap), no QoL, etc. For a long time there hasn't been a "good" autoclicker mod.
+
 [Frozen Cookies](https://mtarnuhal.github.io/FrozenCookies/) \- An automated Cookie Clicker tool.
 
 [Frozen Cookies (fork)](https://github.com/erbkaiser/FrozenCookies) \- An alternate version of Frozen Cookies, containing much more automation options than the original.
