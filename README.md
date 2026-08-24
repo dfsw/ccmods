@@ -74,11 +74,15 @@ Nearly everything can be toggled on or off at will, though most start enabled.
 
 [Macadamia](https://github.com/RedBigz/macadamia) \- A custom mod loader for Cookie Clicker which allows players to play online, with dedicated mod APIs to communicate over the Internet.
 
-[Cookie Clicker Combo Execution Mod (CCCEM)](https://cursedsliver.github.io/CCCEM/) \- Sets up the game to allow you to easily practice various kinds of combos and tweak the game to your desire, with a reset button for repeated practice. 
+[P For Pause](https://cursedsliver.github.io/CCCEM/PForPause) \- Press P to pause the game, and press Shift+P to manipulate time itself (Game speed)!
+
+[C-Sandbox (CCCEM)](https://cursedsliver.github.io/CCCEM/) \- Sets up the game to allow you to easily practice various kinds of combos and tweak the game to your desire, with a reset button for repeated practice. 
+
+[Garden Randomizer](https://cursedsliver.github.io/asdoindwalk/modDescriptions/garden-randomizer) \- A mod that randomizes garden mutations and adds in several mechanics to speed up the garden immensely, turning the minigame from a idle game to a fast-paced, puzzly roguelike. Built for multiplayer events where multiple people would work on one randomized mutation set.
 
 [Crustulum](https://github.com/Ancyker/Crustulum) \- Crustulum is a *cheating* add-on for Cookie Clicker. It enables a variety of features to help those wishing to make aspects of the game easier. 
 
-[True offline](https://cursedsliver.github.io/true-offline/main.js) A mod that grants true offline progress to cookie clicker by simulating the offline time when the game is opened again, including the ability to speed up the simulation using P for Pause. Loading the mod continuously is needed to store the last login as mod data
+[True offline](https://github.com/cursedsliver/true-offline) A mod that grants true offline progress to cookie clicker by simulating the offline time when the game is opened again, including the ability to speed up the simulation using P for Pause. Loading the mod continuously is needed to store the last login as mod data
 
 # Appearance Mods
 
@@ -96,7 +100,7 @@ Nearly everything can be toggled on or off at will, though most start enabled.
 
 [Call Tracker](https://hellopir2.github.io/cc-mods/callTracker.js) \- Helps determine random predictions and provides information on random outcomes. 
 
-[Sweet Finder](https://cookieclicker.wiki.gg/wiki/Add-Ons#Sweet_Finder) \- Quickly finds the nearest “Sweet\!” (+1 sugar lump) effects in the Grimoire, automatically triggering on ascension. Used for sugar lump farming with advanced strategies.
+[Sweet Finder](https://cursedsliver.github.io/asdoindwalk/modDescriptions/sweet-finder) \- Quickly finds the nearest “Sweet\!” (+1 sugar lump) effects in the Grimoire, automatically triggering on ascension. Used for sugar lump farming with advanced strategies.
 
 [Kitchen Timer](https://github.com/3plus4i/CCkitchentimer) \- Provides additional playtime information which is useful on the web version of Cookie Clicker.
 
@@ -104,7 +108,7 @@ Nearly everything can be toggled on or off at will, though most start enabled.
 
 # Helper Mods
 
-[Metaclicker: The ultimate autoclicker mod](https://cursedsliver.github.io/asdoindwalk/autoclicker.js) \- A lot of the autoclicker scripts on web have issues. They don't look like they are clicking the big cookie, they click at speeds no autoclicker should be able to click at without telling their users (the 50 clicks/second cap), no QoL, etc. For a long time there hasn't been a "good" autoclicker mod.
+[Metaclicker: The ultimate autoclicker mod](https://cursedsliver.github.io/asdoindwalk/modDescriptions/metaclicker) \- A lot of the autoclicker scripts on web have issues. They don't look like they are clicking the big cookie, they click at speeds no autoclicker should be able to click at without telling their users (the 50 clicks/second cap), no QoL, etc. For a long time there hasn't been a "good" autoclicker mod.
 
 [Frozen Cookies](https://mtarnuhal.github.io/FrozenCookies/) \- An automated Cookie Clicker tool.
 
