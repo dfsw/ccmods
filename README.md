@@ -62,7 +62,10 @@ Nearly everything can be toggled on or off at will, though most start enabled.
  
 [Back For Seconds](https://github.com/xyntercept/back-for-seconds/tree/main)\- This is a cookie clicker mod designed for the finnless ruleset. It is heavily inspired by Lookas123's Extra Content Mod.It does not modify gameplay at all, it is only an achievement pack, similar to ECM. It adds 30 more achievements for Cookies Baked This Ascension, up to 1 octotrigintillion (these do not give milk). It also adds 6 shadow achievements.
 
-[Moonwork's Anzac Biscuits](https://github.com/Moonworks64/MoonworksAnzacBiscuits)\- A mod which currently adds many new tiered upgrades and achievements, a minigame for You called Cloning Facility, and adds some new heavenly upgrades. Meant for players looking for just some more content to sink their teeth into. More stuff will come soon!
+[Moonwork's Anzac Biscuits](https://github.com/Moonworks64/MoonworksAnzacBiscuits)\- A mod which currently adds many new tiered upgrades and achievements, a minigame for You called Cloning Facility, and adds some new heavenly upgrades. Meant for players looking for just some more content to sink their teeth into. 
+
+[Moonwork's New Tiers](https://github.com/Moonworks64/MoonworksNewTiers) \- A mod which adds a bunch of new tiered upgrades and achievements and then some. Intended for use either by modders looking to add a bunch of tiers to their mod without putting in the work, or for players to load with other mods that don't extend the Cookie Clicker endgame upgrade tree.
+
 
 # Gameplay Mods
 
@@ -137,5 +140,3 @@ Nearly everything can be toggled on or off at will, though most start enabled.
 [Cookie Clicker Script Extender (CCSE)](https://klattmose.github.io/CookieClicker/CCSE-POCs/) \- CCSE is a modding framework for the game https://orteil.dashnet.org/cookieclicker/. On its own, it makes no changes to the game. Instead, it makes modding the game much easier.
 
 [Crumbs Engine](https://github.com/CursedSliver/Crumbs-engine/tree/main) \- Implements an object tracking system on canvas like a game engine, and heavily modifies all parts of the game that uses canvas to fit this framework, allowing “objects” on canvas to be manipulated and modified easily. Supports various components that offer advanced functionality such as collision detection.
-
-[Moonwork's New Tiers](https://github.com/Moonworks64/MoonworksNewTiers) \- A mod which adds a bunch of new tiered upgrades and achievements and then some. Intended for use either by modders looking to add a bunch of tiers to their mod without putting in the work, or for players to load with other mods that don't extend the Cookie Clicker endgame upgrade tree.
