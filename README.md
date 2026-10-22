@@ -66,6 +66,8 @@ Nearly everything can be toggled on or off at will, though most start enabled.
 
 [Moonwork's New Tiers](https://github.com/Moonworks64/MoonworksNewTiers) \- A mod which adds a bunch of new tiered upgrades and achievements and then some. Intended for use either by modders looking to add a bunch of tiers to their mod without putting in the work, or for players to load with other mods that don't extend the Cookie Clicker endgame upgrade tree.
 
+[Nothing and Matriarch Ziggurat](https://github.com/VirAbAbsurdo/cookie-clicker-mods) - Two new buildings: Nothing, which bakes cookies from the void while the void phage eats your things, and the Matriarch Ziggurat, unlocked by an Elder Apotheosis that sends your grandmas up its steps. Made with Claude.
+
 
 # Gameplay Mods
 
