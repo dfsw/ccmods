@@ -113,6 +113,8 @@ Nearly everything can be toggled on or off at will, though most start enabled.
 
 [Cookie Clicker Advisor](https://chromewebstore.google.com/detail/cookie-clicker-advisor/ofmdcdkoaoamflggkifhcckojmnhbaap?hl=en) \- A Chrome extension that calculates the best purchases.
 
+[Quick Timers](https://github.com/swbuwk-cc/quick-timers) Buff timers and Golden Cookie timer for Cookie Clicker. See active buff durations and multipliers without opening tooltips, track the Golden Cookie spawn timer, and customize the timer display.
+
 # Helper Mods
 
 [Metaclicker: The ultimate autoclicker mod](https://cursedsliver.github.io/asdoindwalk/modDescriptions/metaclicker) \- A lot of the autoclicker scripts on web have issues. They don't look like they are clicking the big cookie, they click at speeds no autoclicker should be able to click at without telling their users (the 50 clicks/second cap), no QoL, etc. For a long time there hasn't been a "good" autoclicker mod.
